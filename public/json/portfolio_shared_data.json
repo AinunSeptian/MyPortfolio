@@ -1,0 +1,58 @@
+{
+  "basic_info": {
+    "name": "Ainun Septian",
+    "titles": ["Front-end Developer", "Mobile App Developer"],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/AinunSeptian",
+        "class": "fab fa-github"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com",
+        "class": "fab fa-linkedin-in"
+      }
+    ],
+    "image": "https://avatars.githubusercontent.com/u/63268883?s=400&u=29f6c3a3a0d7c9fc37d97ffd79f3b7704d29a15c&v=4"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "HTML",
+        "class": "devicon-html5-plain",
+        "level": "95"
+      },
+      {
+        "name": "CSS",
+        "class": "devicon-css3-plain",
+        "level": "95"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain",
+        "level": "85"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original",
+        "level": "75"
+      },
+      {
+        "name": "Redux",
+        "class": "devicon-redux-original",
+        "level": "50"
+      },
+      {
+        "name": "Bootstrap",
+        "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "MaterialUI",
+        "class": "devicon-materialui-plain",
+        "level": "75"
+      }
+    ]
+  }
+}

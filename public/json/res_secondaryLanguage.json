@@ -1,0 +1,99 @@
+{
+  "basic_info": {
+    "description_header": "Hai",
+    "description": "👋 Saya Ainun Septian. Saya adalah seorang Front-end Developer dengan pengalaman langsung dan menyeluruh dalam kerangka Javascript seperti ReactJS, ReactNative dan memahami konsep-konsep penting seperti Fecting API, State Management, ResrfulAPI, dll.",
+    "section_name": {
+      "about": "Tentang Saya",
+      "projects": "Proyek",
+      "skills": "Keterampilan",
+      "experience": "Pengalaman"
+    }
+  },
+  "projects": [
+    {
+      "title": "Staycation Web",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/animal-shelter/p1.jpg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "https://github.com/AinunSeptian",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "ReactJS"
+        },
+        {
+          "class": "devicon-bootstrap-plain",
+          "name": "Bootstrap"
+        }
+      ]
+    },
+    {
+      "title": "Clone detikcom",
+      "startDate": "2021",
+      "description": "Mengkloning detikcom hanya dari segi front-endnya saja menggunakan kerangka kerja Reactjs dan material UI",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com/AinunSeptian",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        }
+      ]
+    },
+    {
+      "title": "My Doctor App",
+      "startDate": "2022",
+      "description": "Aplikasi yang memudahkan seseorang untuk berkonsultasi dengan dokter terkait kesehatan",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com/AinunSeptian/MyDocter",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "ReactNative"
+        },
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "TOG",
+      "title": "Front-End Developer Freelance",
+      "years": "10.2021 - 12.2021",
+      "mainTech": ["ReactJS & Material UI"],
+      "taks": [
+        "Slicing layout from design",
+        "Fixing bugs",
+        "Reports every weeks"
+      ]
+    },
+    {
+      "company": "Progate",
+      "title": "instruktur Front-End Developer",
+      "years": "10.2020 - 01.2021",
+      "mainTech": ["HTML, CSS, Javascript & React"],
+      "taks": [
+        "Menjawab pertanyaan dari peserta",
+        "Penerapan code yang baik",
+        "Meninjau source code peserta",
+        "Membantu menyelesaikan kesalahan/bug peserta"
+      ]
+    }
+  ]
+}
