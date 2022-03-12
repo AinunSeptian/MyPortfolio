@@ -206,6 +206,33 @@ header h1 {
     "Lucida Sans", Arial, sans-serif;
 }
 
+#award {
+  background: #fff;
+  overflow: hidden;
+}
+
+#award h1 {
+  padding-top: 5%;
+  font: 18px/24px "opensans-bold", sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: black;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.award-title {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.award-label {
+  font-size: 18px;
+  font-weight: 500;
+  font-style: italic;
+  color: #696969;
+}
+
 #preview {
   width: 500px;
   background-color: #ebeaf5;

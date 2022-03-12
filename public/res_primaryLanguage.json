@@ -6,7 +6,8 @@
       "about": "About me",
       "projects": "Projects",
       "skills": "Skills",
-      "experience": "Experience"
+      "experience": "Experience",
+      "award": "Award"
     }
   },
   "projects": [
@@ -64,6 +65,38 @@
           "name": "Firebase"
         }
       ]
+    }
+  ],
+  "award": [
+    {
+      "title": "Progate & DTS",
+      "label": "Mentor Coding Experience Bootcamp",
+      "date": " • October 2020"
+    },
+    {
+      "title": "Udemy",
+      "label": "ReactJS : The Complete Bootcamp",
+      "date": " • July 2020"
+    },
+    {
+      "title": "Dicoding",
+      "label": "Basic Front-End Web Development",
+      "date": " • May 2020"
+    },
+    {
+      "title": "Dicoding",
+      "label": "Fundamental Front-End Web Development",
+      "date": " • June 2020"
+    },
+    {
+      "title": "Build With Angga",
+      "label": "Front-end web designer",
+      "date": " • June 2021"
+    },
+    {
+      "title": "Build With Angga",
+      "label": "Full-Stack React Native developer",
+      "date": " • January 2022"
     }
   ],
   "experience": [

@@ -52,6 +52,19 @@ body[data-theme="dark"] {
     }
   }
 
+  #award {
+    background-color: #7f7f7f;
+    h1 span {
+      color: white;
+    }
+    .award-title {
+      color: white;
+    }
+    .award-label {
+      color: #e0e0e0;
+    }
+  }
+
   #portfolio {
     background: #5b5b5b;
     .section-title {
