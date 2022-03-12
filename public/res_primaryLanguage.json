@@ -13,10 +13,8 @@
     {
       "title": "Staycation Web",
       "startDate": "2020",
-      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
-      "images": [
-        "https://lh3.googleusercontent.com/Y07uEv76BHtqLTIe_Aq5TXOMynE0GtXuxRFmKbgtzXYXLSbje2z-aZBvZO9yOC95j27EVL7HALK3LcFo-cX8lIfn2ifPtSGWIDB78NM-2iLvOtfITCPZNjKNkLPubCohEK3oqExyL8qjaO3MxWNbMJUzTgvpVeXGr304AN_pR-HTTiXSgnWUb-1ysxTt9B6MwXPaUjXdD8X8yT0pXXjDyQdl2Vpj34d8_u68VLEUXzwBN9dxSKFOxM4gh0IRtO06aKOAvWSLCAQeZLT1nJVQucI_xq0L_5w7bcoJSaBe3DzxtCzC3JY4UcCjGz7XwUsFUDt-cqS9FlnJDoWpU2JeciFrWCxsdblZ64D-wgg0p2kIfLcyyQDxnnXa5WbQwP1p133XIrt-YLj48QKIKEvUlcUZldIlyQX6msktYLcloF9ZJnrZSKm54t8m_49ssSKB80R68UxiGE0NX8vgc_irqMj3hGhAK6VxjakvXhoFQaDz2YnSNcnTD2JCKyV3TEqG03oRO4UWJwGoGXwxeQs7t9TCG-Wn70Eu69ljT87giza0x8Wcb15Gn6d_Ms6RNRPfCc98L0HASm1ej-DNTJdSUx52aItLvbVwz4_hoLwQ_lTo2gEOSp4gdZJofiW-F5ER_Qt6CLZVnZxNqvq8lkAU5C6L8jDu4RA8ntxQDAS-ILmVtRxuvlGMeUBynPG_cvWkAPWl4B2idvaxhkwPXHhdFPU=w451-h220-no?authuser=0"
-      ],
+      "description": "World-class hotel room booking websites and beautiful vacation spots.",
+      "images": ["images/staycation1.jpg", "images/staycation2.jpg"],
       "url": "https://github.com/AinunSeptian",
       "technologies": [
         {
@@ -37,9 +35,7 @@
       "title": "Clone detikcom",
       "startDate": "2021",
       "description": "cloning detikcom only in terms of the front-end using the Reactjs framework and material UI",
-      "images": [
-        "https://lh3.googleusercontent.com/1YcQ-q7SQlS2z30BJ1Vya9_DqqSK7CjW_p9p14a7fdVRUT0L2Ic0a7KEIdioMif8CVYm0pGvBUJHFaSZ0aO2jBc5KNMB5BhAejroqgjpNVrFOrpw5CMzlhs_p8xXPTZnuBxfn-nViszsdqH8fLsaxdhT900Ca9FDjWwN1gvtivSaoNlxnOpv-BEbpmgFsJedQq_UTtvKSV2FQ4p_rni0W9eTDf31UZoIaRKEREOsWHZgy-bsU6lQ4f8Rf8Nn2FzuDrpE1CDM7YZp5_SpGCFlkUtp3wTMuEzHir4MqPQqPw-v9DKAbYajAM-z9HDI-I2OtTSLxOm1XpiI7QlOOBPx7x7PyFV7GierR7pxg9GEZXOI5iOkb81AJj8KrN_bXQ4qUmoA3hwSoW_9Y6n_tzVF30U3vx4dNkAphxwR8jnWlr2iDcl3WqKe3YpFxanUCzoeM91Fv2Zc08U3KyPE9wLpPzaOKov2OpgKawFwpkjye7noJw4blyvLPO5Yg1oib2ULajYrKj6FkHwaGQf5J7FUwOv5xz1R10obbBqrsVtMnlIVEU-ziGp9JcukgEhYVzH0Vlym8IuVB2xd5JX0e0S5xT-FCFbswKImjf6-GycpXtwhasq7rlzmh4DG0FAyGWgQwKNmrOseFNdxrBjABkgzNo6gVCSt-vUFVtu3yq54h79wn8lj88UXLqFXRPefuqFZP2l481tL54rnNtIPZSCDuQE=w409-h201-no?authuser=0"
-      ],
+      "images": ["images/detik_com1.jpg", "images/detik_com2.jpg"],
       "url": "https://github.com/AinunSeptian",
       "technologies": [
         {
@@ -56,9 +52,7 @@
       "title": "My Doctor App",
       "startDate": "2022",
       "description": "An application that makes it easy for someone to consult a doctor regarding health",
-      "images": [
-        "https://lh3.googleusercontent.com/d8_NJtzAUvvI5UC-Yyg6bR9wesFyVq2a-byur3D6ZSJEnZoxFqOEA6JVfEv87nBs_nnOJU07caWh2B_DmrRigXPaG5hbzoDkZRe9kjJxvjeMmcBS8roHp9klF28uYfYHwX2uD28T0DFPcWZ9KpXKSQFkaCTUm3EPVVDEzwJiSxFlGfzOmZ-ulul9jaf2noiji-nnTTIVphHPLamWVr2NcjaOzvlsdf-EHKOO_ZoRHkZBX1aPe1KHDgxiY4kXc8zSUlyFGN-Xh56kn1YNn-KxHqeDJ2KpBzrBj9xi72mlMoD_dMyld_Bjk-tmmKMsHdtkrrvTQ6XTGG_3xgHraClP-DFRYaJRPtTlNdLiiqS_On-5hkiKgmwQve01M_1y3E4P_2iTt6PHwXaVBFP_06q5lHI8EeU2T1grDbmejJz64vw1wyIIXShDE0q4y_WmHo9e4Nw7ogaAkuP0chPR83p6fw4b_JIS5eUQHbt8UUitzOS1wu5Y7i8y8TBxKKzpj-pyw62lNtME3UkgA3XSBHqLx5AFdtwr9dUavZhNOJypM38cKEhdF7_WQBZq9ttQsPuwiH-7CQp_cPqw2mBiBw6TD2ScvEABKYdUQXMzAZJiUNOGKOcUOXMc1mDRb4LQHc88W9B96UHwc4e-eXZfoyBUYDJqAnLFeXVYfT8YVcn5TWoo-0_J03LUEpjBFjUAdtx1vpFDyeHoi0Sf2IC-2RGcMak=w391-h220-no?authuser=0"
-      ],
+      "images": ["images/my_doctor.jpg"],
       "url": "https://github.com/AinunSeptian/MyDocter",
       "technologies": [
         {
@@ -90,10 +84,10 @@
       "years": "10.2020 - 01.2021",
       "mainTech": ["HTML, CSS, Javascript & React"],
       "taks": [
-        "Answer questions from participants",
+        "Answer questions participants",
         "Implement clean code",
         "Review source code participants",
-        "Help resolve participans errors/bugs"
+        "Help resolve errors/bugs"
       ]
     }
   ]
