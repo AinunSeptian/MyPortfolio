@@ -7,6 +7,7 @@ class About extends Component {
   render() {
     if (this.props.sharedBasicInfo) {
       var profilepic = this.props.sharedBasicInfo.image;
+      var resume = this.props.sharedBasicInfo.resume;
     }
     if (this.props.resumeBasicInfo) {
       var sectionName = this.props.resumeBasicInfo.section_name.about;
@@ -41,7 +42,7 @@ class About extends Component {
               </div>
             </div>
 
-            <div className="col-md-8 center">
+            <div className="col-md-8 center flex-column">
               <div className="col-md-10">
                 <div className="card">
                   <div className="card-header">
@@ -78,6 +79,12 @@ class About extends Component {
                     {about}
                   </div>
                 </div>
+              </div>
+              <div className="btn-download">
+                <a href={resume} download>
+                  <span className="iconify" data-icon="fa-solid:download" />
+                  &nbsp; Download Resume
+                </a>
               </div>
             </div>
           </div>
