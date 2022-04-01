@@ -24,6 +24,16 @@ class Award extends Component {
           </h1>
           {Awards}
           <br />
+          <div className="wrapper-btn-link">
+            <a
+              href="https://drive.google.com/drive/folders/1hxxBZxcMumn8qs7YlWdYhMuido7LhzMI?usp=sharing"
+              target="_blank"
+            >
+              <span className="iconify" data-icon="akar-icons:link-chain" />
+              &nbsp; Certificate
+            </a>
+          </div>
+          <br />
         </div>
       </section>
     );

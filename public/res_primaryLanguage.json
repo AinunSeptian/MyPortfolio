@@ -16,7 +16,7 @@
       "startDate": "2020",
       "description": "World-class hotel room booking websites and beautiful vacation spots.",
       "images": ["images/staycation1.jpg", "images/staycation2.jpg"],
-      "url": "https://github.com/AinunSeptian",
+      "url": "https://staycation09.herokuapp.com/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -37,7 +37,7 @@
       "startDate": "2021",
       "description": "cloning detikcom only in terms of the front-end using the Reactjs framework and material UI",
       "images": ["images/detik_com1.jpg", "images/detik_com2.jpg"],
-      "url": "https://github.com/AinunSeptian",
+      "url": "https://xcidic-detik-clone.netlify.app/",
       "technologies": [
         {
           "class": "devicon-react-original",

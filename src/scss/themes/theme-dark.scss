@@ -50,6 +50,9 @@ body[data-theme="dark"] {
       background: #6d6d6d;
       color: white;
     }
+    .btn-download a {
+      color: white;
+    }
   }
 
   #award {
@@ -62,6 +65,9 @@ body[data-theme="dark"] {
     }
     .award-label {
       color: #e0e0e0;
+    }
+    .wrapper-btn-link a {
+      color: white;
     }
   }
 

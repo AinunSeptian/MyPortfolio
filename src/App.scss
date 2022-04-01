@@ -258,6 +258,19 @@ header h1 {
   color: #696969;
 }
 
+.wrapper-btn-link {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  a {
+    font-size: 18px;
+    font-weight: 500;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}
+
 #preview {
   width: 500px;
   background-color: #ebeaf5;
