@@ -28,6 +28,7 @@ class Award extends Component {
             <a
               href="https://drive.google.com/drive/folders/1hxxBZxcMumn8qs7YlWdYhMuido7LhzMI?usp=sharing"
               target="_blank"
+              rel="noopener noreferrer"
             >
               <span className="iconify" data-icon="akar-icons:link-chain" />
               &nbsp; Certificate
