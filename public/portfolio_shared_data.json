@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "name": "Ainun Septian",
-    "resume": "CV_AinunSeptian.pdf",
+    "resume": "CV_Ainun_Septian.pdf",
     "titles": ["Front-end Developer", "React JS Developer"],
     "social": [
       {
@@ -15,7 +15,7 @@
         "class": "fab fa-linkedin-in"
       }
     ],
-    "image": "images/myProfile.jpeg"
+    "image": "images/myProfile.jpg"
   },
   "skills": {
     "icons": [
