@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hai",
-    "description": "👋 Saya Ainun Septian. Saya adalah seorang Front-end Developer dengan pengalaman langsung dan menyeluruh dalam kerangka Javascript seperti ReactJS, ReactNative dan memahami konsep-konsep penting seperti Fecting API, State Management, ResrfulAPI, dll.",
+    "description": "👋 Saya Ainun Septian. Saya adalah seorang Front-end Developer dengan pengalaman langsung dan menyeluruh dalam kerangka kerja Javascript seperti ReactJS, ReactNative, NextJS dan memahami konsep-konsep penting seperti, State Management, RestfulAPI, Asynchronous, dll.",
     "section_name": {
       "about": "Tentang Saya",
       "projects": "Proyek",
@@ -14,9 +14,10 @@
     {
       "title": "Staycation Web",
       "startDate": "2020",
-      "description": "Webiste pemesanan kamar hotel yang berkelas diseluruh dunia dan tempat - tempat liburan yang indah",
+      "description": "Webiste pemesanan kamar hotel yang berkelas diseluruh dunia dan tempat - tempat liburan yang indah.",
+      "responsive": " ( Tidak responsif, akan hancur jika dibuka di ponsel dan tablet )",
       "images": ["images/staycation1.jpg", "images/staycation2.jpg"],
-      "url": "https://github.com/AinunSeptian",
+      "url": "https://staycation09.herokuapp.com/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -25,15 +26,20 @@
         {
           "class": "devicon-bootstrap-plain",
           "name": "Bootstrap"
+        },
+        {
+          "class": "devicon-sass-original",
+          "name": "Sass"
         }
       ]
     },
     {
       "title": "Clone detikcom",
       "startDate": "2021",
-      "description": "Mengkloning detikcom hanya dari segi front-endnya saja menggunakan kerangka kerja Reactjs dan material UI",
+      "description": "Mengkloning detikcom hanya dari segi front-endnya saja menggunakan kerangka kerja Reactjs dan material UI.",
+      "responsive": " ( Tidak responsif, akan hancur jika dibuka di ponsel dan tablet )",
       "images": ["images/detik_com1.jpg", "images/detik_com2.jpg"],
-      "url": "https://github.com/AinunSeptian",
+      "url": "https://xcidic-detik-clone.netlify.app/",
       "technologies": [
         {
           "class": "devicon-react-original",
@@ -99,7 +105,7 @@
     {
       "company": "TOG",
       "title": "Front-End Developer Freelance",
-      "years": "Selama 2 Bulan",
+      "years": "Oktober - November 2021 ( 2 Bulan )",
       "mainTech": ["ReactJS & Material UI"],
       "taks": [
         "Conversi design menjadi program",
@@ -110,7 +116,7 @@
     {
       "company": "Progate",
       "title": "instruktur Front-End Developer",
-      "years": "Selama 3 Bulan",
+      "years": "Oktober - Desember 2020 ( 3 Bulan )",
       "mainTech": ["HTML, CSS, Javascript & React"],
       "taks": [
         "Menjawab pertanyaan peserta",

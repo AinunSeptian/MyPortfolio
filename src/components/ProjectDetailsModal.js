@@ -11,6 +11,7 @@ class ProjectDetailsModal extends Component {
       const images = this.props.data.images;
       var title = this.props.data.title;
       var description = this.props.data.description;
+      var responsive = this.props.data.responsive;
       var url = this.props.data.url;
       if (this.props.data.technologies) {
         var tech = technologies.map((icons, i) => {
@@ -93,7 +94,7 @@ class ProjectDetailsModal extends Component {
                 </a>
               ) : null}
             </h3>
-            <p className="modal-description">{description}</p>
+            <p className="modal-description">{description} <br /> {responsive}</p>
             <div className="col-md-12 text-center">
               <ul className="list-inline mx-auto">{tech}</ul>
             </div>

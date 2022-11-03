@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Ainun Septian. I'm is Front-end developer with hands-on and thorught experience in Javascript framework like ReactJS, ReactNative and understanding important concepts like Fecthing API, State Management, ResrfulAPI, etc.",
+    "description": "👋 I'm Ainun Septian. I'm is Front-end developer with hands-on and thorught experience in Javascript framework like ReactJS, ReactNative, NextJS and understanding important concepts like, State Management, RestfulAPI, Asynchronous etc.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -15,6 +15,7 @@
       "title": "Staycation Web",
       "startDate": "2020",
       "description": "World-class hotel room booking websites and beautiful vacation spots.",
+      "responsive": " ( Unresponsive, will destroyed if opened on phone and tablet )",
       "images": ["images/staycation1.jpg", "images/staycation2.jpg"],
       "url": "https://staycation09.herokuapp.com/",
       "technologies": [
@@ -35,7 +36,8 @@
     {
       "title": "Clone detikcom",
       "startDate": "2021",
-      "description": "cloning detikcom only in terms of the front-end using the Reactjs framework and material UI",
+      "description": "cloning detikcom only in terms of the front-end using the Reactjs framework and material UI.",
+      "responsive": " ( Unresponsive, will destroyed if opened on phone and tablet )",
       "images": ["images/detik_com1.jpg", "images/detik_com2.jpg"],
       "url": "https://xcidic-detik-clone.netlify.app/",
       "technologies": [
@@ -103,7 +105,7 @@
     {
       "company": "TOG",
       "title": "Front-End Developer Freelance",
-      "years": "For 2 Month",
+      "years": "October - November 2021 ( 2 Month )",
       "mainTech": ["ReactJS & Material UI"],
       "taks": [
         "Slicing layout from design",
@@ -114,7 +116,7 @@
     {
       "company": "Progate",
       "title": "instructor Front-End Developer",
-      "years": "For 3 Month",
+      "years": "October - December 2020 ( 3 Month )",
       "mainTech": ["HTML, CSS, Javascript & React"],
       "taks": [
         "Answer questions participants",
