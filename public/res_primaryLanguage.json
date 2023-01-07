@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hi",
-    "description": "👋 I'm Ainun Septian. I'm is Front-end developer with hands-on and thorught experience in Javascript framework like ReactJS, ReactNative, NextJS and understanding important concepts like, State Management, RestfulAPI, Asynchronous etc.",
+    "description": "👋 I'm Ainun Septian. I'm a person who passionate about learning, likes to collaborate, interested in logic and problem solving. Experience in making applications based on web and mobile using JavaScript, ReactJS, ReactNative, NextJS and understanding important concepts like, State Management, RestfulAPI, Asynchronous, etc. Able to take part in the development to deployment process and ready to adapt to new technologies.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -77,7 +77,7 @@
     },
     {
       "title": "Udemy",
-      "label": "ReactJS : The Complete Bootcamp",
+      "label": "ReactJS : The Complete Guide",
       "date": " • July 2020"
     },
     {
@@ -103,8 +103,19 @@
   ],
   "experience": [
     {
-      "company": "TOG",
-      "title": "Front-End Developer Freelance",
+      "company": "PT. Bangsawan Cyberindo",
+      "title": "Front-end Developer",
+      "years": "August 2022 - Present",
+      "mainTech": ["ReactJS, NextJs & Balde Tempaltes ( laravel )"],
+      "taks": [
+        "Slicing layout from design",
+        "Fixing bugs",
+        "Reports every weeks"
+      ]
+    },
+    {
+      "company": "TOG Indoensia",
+      "title": "Front-end Developer Freelance",
       "years": "October - November 2021 ( 2 Month )",
       "mainTech": ["ReactJS & Material UI"],
       "taks": [
@@ -114,8 +125,8 @@
       ]
     },
     {
-      "company": "Progate",
-      "title": "instructor Front-End Developer",
+      "company": "Progate Indonesia",
+      "title": "instructor Front-end Developer",
       "years": "October - December 2020 ( 3 Month )",
       "mainTech": ["HTML, CSS, Javascript & React"],
       "taks": [

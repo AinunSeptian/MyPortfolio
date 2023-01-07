@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hai",
-    "description": "👋 Saya Ainun Septian. Saya adalah seorang Front-end Developer dengan pengalaman langsung dan menyeluruh dalam kerangka kerja Javascript seperti ReactJS, ReactNative, NextJS dan memahami konsep-konsep penting seperti, State Management, RestfulAPI, Asynchronous, dll.",
+    "description": "👋 Saya Ainun Septian. Saya adalah seorang yang semangat dalam belajar, suka berkolaborasi, tertarik pada logika dan pemecahan masalah. Berpengalaman dalam pembuatan aplikasi berbasis web dan mobile menggunakan JavaScript, ReactJS, ReactNative, NextJS dan memahami konsep-konsep penting seperti, State Management, RestfulAPI, Asynchronous, dll. Dan mampu mengikuti development hingga proses deployment dan siap untuk beradaptasi teknologi baru.",
     "section_name": {
       "about": "Tentang Saya",
       "projects": "Proyek",
@@ -77,7 +77,7 @@
     },
     {
       "title": "Udemy",
-      "label": "ReactJS : The Complete Bootcamp",
+      "label": "ReactJS : The Complete Guide",
       "date": " • July 2020"
     },
     {
@@ -103,8 +103,19 @@
   ],
   "experience": [
     {
-      "company": "TOG",
-      "title": "Front-End Developer Freelance",
+      "company": "PT. Bangsawan Cyberindo",
+      "title": "Front-end Developer",
+      "years": "Agustus 2022 - Sekarang",
+      "mainTech": ["ReactJS, NextJs & Balde Tempaltes ( laravel )"],
+      "taks": [
+        "Conversi design menjadi program",
+        "Memperbaiki bugs",
+        "Laporan setiap pekan"
+      ]
+    },
+    {
+      "company": "TOG Indonesia",
+      "title": "Front-end Developer Freelance",
       "years": "Oktober - November 2021 ( 2 Bulan )",
       "mainTech": ["ReactJS & Material UI"],
       "taks": [
@@ -114,8 +125,8 @@
       ]
     },
     {
-      "company": "Progate",
-      "title": "instruktur Front-End Developer",
+      "company": "Progate Indonesia",
+      "title": "instruktur Front-end Developer",
       "years": "Oktober - Desember 2020 ( 3 Bulan )",
       "mainTech": ["HTML, CSS, Javascript & React"],
       "taks": [

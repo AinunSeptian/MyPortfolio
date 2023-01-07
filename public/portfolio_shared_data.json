@@ -35,8 +35,18 @@
         "level": "85"
       },
       {
+        "name": "Jquery",
+        "class": "devicon-javascript-plain",
+        "level": "85"
+      },
+      {
         "name": "React",
         "class": "devicon-react-original",
+        "level": "75"
+      },
+      {
+        "name": "NextJS",
+        "class": "devicon-nextjs-original",
         "level": "75"
       },
       {
@@ -47,6 +57,11 @@
       {
         "name": "Bootstrap",
         "class": "devicon-bootstrap-plain",
+        "level": "85"
+      },
+      {
+        "name": "Tailwind",
+        "class": "devicon-tailwindcss-plain",
         "level": "85"
       },
       {
